@@ -64,16 +64,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
  <br />
- <sub><b>Josiley Cesario Praxedes</b></sub>
+  Josiley Cesario Praxedes
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.al.rio@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.al.rio@gmail.com)](mailto:gabriel.al.rio@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-josileycpraxedes@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josileycpraxedes@gmail.com)](mailto:josileycpraxedes@gmail.com)
 
 ---
 
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE.md).
-
-Feito por Gabriel Rios 👋🏻 [josileycpraxedes@gmail.com]
