@@ -44,50 +44,15 @@ A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, c
 
 ---
 
-## 🚀 Como executar o projeto
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-#### 🧭 Rodando a aplicação
-
-```bash
-
-# Clone este repositório
-$ git clone https://github.com/grioos/proffy-discovery
-
-# Acesse a pasta do projeto no seu vscode
-$ cd proffy-discovery
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação 
-$ npm start
-
-# O servidor inciará na porta:5500 - acesse http://localhost:5500 
-```
-
----
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
-- **[Express](https://expressjs.com/)**
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
-- **[JavaScript](https://www.javascript.com)**
-- **[NodeJS](https://nodejs.org/en/)**
-- **[Nodemon](https://github.com/remy/nodemon)**
-- **[Nunjucks](https://github.com/mozilla/nunjucks)**
-- **[SQLite](https://www.sqlite.org/index.html)**
-- **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
-
-> Veja o arquivo  [package.json](https://github.com/grioos/proffy-discovery/blob/master/package.json)
 
 ---
+
 ## 💪 Como contribuir para o projeto
 
 1. Faça um **fork** do projeto.
@@ -98,10 +63,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 🦸 Autor
-
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60109015?s=460&u=941726645c23518f8cbcb9fca84ea7becc0508c5&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Gabriel Rios</b></sub> 🚀
+ <sub><b>Josiley Cesario Praxedes</b></sub>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/) 
@@ -113,4 +76,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
-Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/grioos/)
+Feito por Gabriel Rios 👋🏻 [josileycpraxedes@gmail.com]
